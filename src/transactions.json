@@ -1,0 +1,92 @@
+[
+  {
+    "id": "730e460f-bcdc-470a-83f4-37cf5db656d7",
+    "type": "Deposit",
+    "amount": 3216,
+    "date": "22.09.2011, 00:00:00"
+  },
+  {
+    "id": "f401e66e-a451-4c6c-884d-5782e3547380",
+    "type": "Deposit",
+    "amount": 9094,
+    "date": "16.07.2012, 00:00:00"
+  },
+  {
+    "id": "a4dc75fc-5e2a-43c1-9e41-fa4e12590f2c",
+    "type": "Deposit",
+    "amount": 9888,
+    "date": "07.08.2012, 00:00:00"
+  },
+  {
+    "id": "f32e1e45-3dc0-4bd8-afd5-5690c5ad034a",
+    "type": "Deposit",
+    "amount": 9644,
+    "date": "06.09.2012, 00:00:00"
+  },
+  {
+    "id": "34445641-8a61-48c2-80c4-7be3250c6ca8",
+    "type": "Deposit",
+    "amount": 8835,
+    "date": "09.03.2013, 00:00:00"
+  },
+  {
+    "id": "2be613d4-840f-496e-82ec-4b58215b5dc6",
+    "type": "Deposit",
+    "amount": 4336,
+    "date": "17.03.2014, 00:00:00"
+  },
+  {
+    "id": "0149d7e7-c943-4f8d-bb3e-1027133a8127",
+    "type": "Withdrawal",
+    "amount": 2318,
+    "date": "03.04.2014, 00:00:00"
+  },
+  {
+    "id": "545e0dab-70a5-4343-b69c-f5507d814bb5",
+    "type": "Withdrawal",
+    "amount": 6023,
+    "date": "05.05.2014, 00:00:00"
+  },
+  {
+    "id": "775bdf74-3108-4a76-91c3-f5ff12f3a824",
+    "type": "Deposit",
+    "amount": 2017,
+    "date": "27.11.2015, 00:00:00"
+  },
+  {
+    "id": "ef28ee5c-036e-4c10-bdd7-984dea2931a6",
+    "type": "Deposit",
+    "amount": 212,
+    "date": "05.04.2016, 00:00:00"
+  },
+  {
+    "id": "a23987d4-880a-482e-be33-4470520b52f2",
+    "type": "Deposit",
+    "amount": 237,
+    "date": "14.04.2016, 00:00:00"
+  },
+  {
+    "id": "24f1c5c0-1686-42f6-a571-8822ebc33990",
+    "type": "Withdrawal",
+    "amount": 6905,
+    "date": "17.06.2016, 00:00:00"
+  },
+  {
+    "id": "67c8c64e-2429-4e56-9bd9-1988cfd02396",
+    "type": "Deposit",
+    "amount": 2523,
+    "date": "17.11.2016, 00:00:00"
+  },
+  {
+    "id": "d400bbc5-af3b-441f-80ac-0514be4d4c2a",
+    "type": "Withdrawal",
+    "amount": 8084,
+    "date": "25.08.2017, 00:00:00"
+  },
+  {
+    "id": "5a942e69-41a4-4b65-bafb-347f0133dbde",
+    "type": "Deposit",
+    "amount": 3627,
+    "date": "19.04.2018, 00:00:00"
+  }
+]

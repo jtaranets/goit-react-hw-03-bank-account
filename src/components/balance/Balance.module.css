@@ -1,0 +1,25 @@
+.balance {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15%;
+}
+
+.arrow_increase {
+  color: green;
+}
+
+.arrow_decrease {
+  color: red;
+}
+
+.amount {
+  font-weight: 700;
+  font-size: 16px;
+  color: #5c6975;
+  margin-right: 10px;
+}
+
+.amount:last-of-type {
+  margin-right: 0;
+}

@@ -1,0 +1,31 @@
+.controls {
+  background-color: #062c56;
+  height: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  border-radius: 4px;
+  margin-right: 10px;
+  border: none;
+  padding: 5px 0;
+  font-family: 'Roboto';
+  font-weight: 700;
+  min-width: 180px;
+}
+
+.btn {
+  composes: input;
+  background-color: #3884ff;
+  color: #fff;
+  min-width: 130px;
+  cursor: pointer;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.btn:last-of-type {
+  margin-right: 0;
+}
